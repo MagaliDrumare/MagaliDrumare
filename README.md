@@ -1,4 +1,4 @@
-[![Description de l'image](https://i.pinimg.com/736x/e1/82/c1/e182c1349e7f138feeb1e47640b0f0e1.jpg)](https://i.pinimg.com/736x/e1/82/c1/e182c1349e7f138feeb1e47640b0f0e1.jpg)
+[![Description de l'image](https://i.pinimg.com/736x/30/a3/1a/30a31ad97d15989535458fb60ec644f0.jpg)
 
 
 Welcome to my GitHub profile! Here, you will find a collection of repositories focused on **AI, Machine Learning, LangChain, Large Language Models (LLMs), and Data Science**.  
