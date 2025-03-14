@@ -38,7 +38,7 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 - **[Token-for-fun](https://github.com/MagaliDrumare/Token-for-fun-)** - AI-generated token experiments.  
 - **[Arcee.AI](https://github.com/MagaliDrumare/Arcee.AI)** - An experimental AI assistant project.
 
-## 📝 Blog & Articles  
+### 📝 Blog & Articles  
 I also write about **AI, Data Science, and Emerging Technologies and Medecine** on **Medium**. 
 https://diplodoc.medium.com/
 
@@ -46,4 +46,3 @@ https://diplodoc.medium.com/
 - GitHub: [MagaliDrumare](https://github.com/MagaliDrumare)  
 - LinkedIn: [Magali Drumare](https://www.linkedin.com/in/magalidrumare/)  
 
-🚀 **Let's build the future of AI together!**  
