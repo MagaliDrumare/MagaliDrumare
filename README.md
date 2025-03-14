@@ -1,8 +1,4 @@
 
-![Pop Art Spock Female Avatar - Sharp Eyes](image.png)
-
-
-
 
 Welcome to my GitHub profile! Here, you will find a collection of repositories focused on **AI, Machine Learning, LangChain, Large Language Models (LLMs), and Data Science**.  
 
