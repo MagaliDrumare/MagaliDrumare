@@ -1,5 +1,5 @@
 
-![Pop Art Spock Female Avatar - Sharp Eyes](assets/pop_art_spock_female_sharp_eyes.png)
+![Pop Art Spock Female Avatar - Sharp Eyes](image.png)
 
 
 
