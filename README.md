@@ -34,11 +34,10 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 
 ### 🎭 Fun & Experimental Projects  
 - **[Token-for-fun](https://github.com/MagaliDrumare/Token-for-fun-)** - AI-generated token experiments.  
-- **[Arcee.AI](https://github.com/MagaliDrumare/Arcee.AI)** - An experimental AI assistant project.  
+- **[Arcee.AI](https://github.com/MagaliDrumare/Arcee.AI)** - An experimental AI assistant project.
 
-## ⭐ Contributions & Community  
-- Actively involved in **AI research, LLM applications, and cloud-based AI solutions**.  
-- Open to collaborations, discussions, and AI-driven innovation.  
+## 📝 Blog & Articles  
+I also write about **AI, Data Science, and Emerging Technologies** on **Medium**. 
 
 📫 **Contact Me**  
 - GitHub: [MagaliDrumare](https://github.com/MagaliDrumare)  
