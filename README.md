@@ -1,14 +1,4 @@
-Here is a **README.md** file summarizing the repositories from your GitHub profile:  
-
-
-# Magali Drumare's GitHub Repositories  
-
 Welcome to my GitHub profile! Here, you will find a collection of repositories focused on **AI, Machine Learning, LangChain, Large Language Models (LLMs), and Data Science**.  
-
-## 🔗 GitHub Profile  
-[Magali Drumare](https://github.com/MagaliDrumare)  
-
-## 📌 Featured Repositories  
 
 ### 🤖 AI & Machine Learning  
 - **[Agent-the-next-big-thing](https://github.com/MagaliDrumare/Agent-the-next-big-thing)** - Exploring the next breakthrough in AI agent technology.  
