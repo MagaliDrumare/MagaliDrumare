@@ -5,11 +5,9 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 ### 🤖 AI & Machine Learning  
 - **[Agent-the-next-big-thing](https://github.com/MagaliDrumare/Agent-the-next-big-thing)** - Exploring the next breakthrough in AI agent technology.  
 - **[Focus-on-AI-Agent](https://github.com/MagaliDrumare/Focus-on-AI-Agent)** - Research and development in AI-driven autonomous agents.  
-- **[LlamaRank-xLAM-Agentforce-Salesforce](https://github.com/MagaliDrumare/LlamaRank-xLAM-Agentforce-Salesforce)** - Advancements in LLM ranking and AI-powered automation.  
 - **[Focus-on-RAG](https://github.com/MagaliDrumare/Focus-on-RAG-)** - Research on Retrieval-Augmented Generation (RAG) techniques.  
 
 ### 📚 Large Language Models & NLP  
-- **[Chinese-models-DeepSeek-R1-Qwen-2.5-VL](https://github.com/MagaliDrumare/Chinese-models-DeepSeek-R1-Qwen-2.5-VL)** - Work on top Chinese AI models, including DeepSeek and Qwen-2.5.  
 - **[Gemma-Gemini-Vertex-AI-Google](https://github.com/MagaliDrumare/Gemma-Gemini-Vertex-AI-Google)** - Experiments with Google's AI models.  
 - **[Mistral-Large-2--Math-tral-Mistral-AI](https://github.com/MagaliDrumare/Mistral-Large-2--Math-tral-Mistral-AI-)** - Working with Mistral’s state-of-the-art LLMs.  
 - **[GPT4.0-Mini-Open-AI](https://github.com/MagaliDrumare/GPT4.0-Mini-Open-AI)** - Mini version experiments for OpenAI's GPT-4.0.  
@@ -31,7 +29,6 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 - **[Quizz-Streamlit-coded-by-ChatGPT](https://github.com/MagaliDrumare/Quizz-Streamlit-coded-by-ChatGPT-)** - A quiz application built with Streamlit and AI-powered logic.  
 
 ### 📊 Data Visualization & BI  
-- **[The-future-of-Tableau](https://github.com/MagaliDrumare/The-future-of-Tableau-)** - Advancing business intelligence using Tableau.  
 - **[Focus-on-Tableau_Viz-Extensions](https://github.com/MagaliDrumare/Focus-on-Tableau_Viz-Extensions-)** - Enhancing Tableau visualizations with custom extensions.  
 
 ### 🎭 Fun & Experimental Projects  
