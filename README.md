@@ -39,7 +39,8 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 - **[Arcee.AI](https://github.com/MagaliDrumare/Arcee.AI)** - An experimental AI assistant project.
 
 ## 📝 Blog & Articles  
-I also write about **AI, Data Science, and Emerging Technologies** on **Medium**. 
+I also write about **AI, Data Science, and Emerging Technologies and Medecine** on **Medium**. 
+https://diplodoc.medium.com/
 
 📫 **Contact Me**  
 - GitHub: [MagaliDrumare](https://github.com/MagaliDrumare)  
