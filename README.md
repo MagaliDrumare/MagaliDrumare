@@ -38,7 +38,7 @@ Welcome to my GitHub profile! Here, you will find a collection of repositories f
 
 ### 📝 Blog & Articles  
 I also write about **AI, Data Science, and Emerging Technologies and Healthcare** on **Medium**. 
-- https://diplodoc.medium.com/
+- Medium : https://diplodoc.medium.com/
 
 📫 **Contact Me**  
 - GitHub: [MagaliDrumare](https://github.com/MagaliDrumare)  
