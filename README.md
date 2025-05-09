@@ -1,5 +1,6 @@
 
-Welcome to my GitHub profile! Here, you will find a collection of repositories focused on **AI, Machine Learning, LangChain, Large Language Models (LLMs), and Data Science**.  
+Welcome to my GitHub profile! Here, you will find a collection of repositories focused on 
+**AI, Machine Learning, LangChain, Large Language Models (LLMs), and Data Science**.  
 
 ### 🤖 AI & Machine Learning  
 - **[Agent-the-next-big-thing](https://github.com/MagaliDrumare/Agent-the-next-big-thing)** - Exploring the next breakthrough in AI agent technology.  
