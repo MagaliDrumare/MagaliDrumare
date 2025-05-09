@@ -1,5 +1,4 @@
-👋 Welcome to my GitHub!
-- 🚀 Explore a growing collection of cutting-edge projects in:
+👋 Welcome to my GitHub! Explore a growing collection of cutting-edge projects in:
   - 🤖 Artificial Intelligence & Machine Learning
   - 📚  Large Language Models (LLMs) & LangChain
   - 📊 Data Science, Analytics & Visualization
